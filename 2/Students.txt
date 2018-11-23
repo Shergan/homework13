@@ -1,0 +1,1 @@
+[Student{studyAges=[2016, 2020], name='Oleg', age=19, gender=MAN, weight=75.5}, Student{studyAges=[2014, 2018], name='Inna', age=21, gender=WOMEN, weight=51.0}, Student{studyAges=[2014, 2020], name='Oleg', age=22, gender=MAN, weight=82.3}]
